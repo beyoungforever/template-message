@@ -1,0 +1,5 @@
+<view>
+  <form report-submit="true" catch:submit="enterSubmit">
+    <button form-type="submit" type="primary">Subscribe</button>
+  </form>
+</view>
